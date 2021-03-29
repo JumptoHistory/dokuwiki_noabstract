@@ -1,0 +1,6 @@
+base noabstract
+author jumptohistory
+email jumptohistory@gmail.com
+date 2021-03-29
+name No Abstract plugin
+desc Exclude certain parts of a page from the abstract in metadata.
